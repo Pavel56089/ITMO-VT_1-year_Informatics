@@ -4,181 +4,189 @@
 		 Понедельник
 	</day>
 	<content>
-		<number>
-			 1
-		</number>
-		<week>
-			 Четная
-		</week>
-		<time>
-			 10.00 - 11.30
-		</time>
-		<campus>
-			 Кронверкский пр. д.49 лит.А
-		</campus>
-		<class>
-			 371
-		</class>
-		<subject>
-			 ПРОГРАММИРОВАНИЕ (ЛАБ)
-		</subject>
-		<teacher>
-			 Письмак Алексей Евгеньевич
-		</teacher>
 		<block>
-<number>
- 1
-</number>
-<week>
- Нечетная
-</week>
-<time>
- 10.00 - 11.30
-</time>
-<campus>
- Кронверкский пр. д.49 лит.А
-</campus>
-<class>
- 372
-</class>
-<subject>
- ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ (ЛАБ)
-</subject>
-<teacher>
- Ткешелашвили Нино Мерабиевна
-</teacher>
-<block>
-<number>
- 2
-</number>
-<week>
- Четная
-</week>
-<time>
- 11.40 - 13.10
-</time>
-<campus>
- Кронверкский пр. д.49 лит.А
-</campus>
-<class>
- 371
-</class>
-<subject>
- ПРОГРАММИРОВАНИЕ (ЛАБ)
-</subject>
-<teacher>
- Письмак Алексей Евгеньевич
-</teacher>
-<block>
-<number>
- 2
-</number>
-<week>
- Нечетная
-</week>
-<time>
- 11.40 - 13.10
-</time>
-<campus>
- Кронверкский пр. д.49 лит.А
-</campus>
-<class>
- 372
-</class>
-<subject>
- ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ (ЛАБ)
-</subject>
-<teacher>
- Ткешелашвили Нино Мерабиевна
-</teacher>
-<block>
-<number>
- 3
-</number>
-<week>
- Четная
-</week>
-<time>
- 13.30 - 15.00
-</time>
-<campus>
- Кронверкский пр. д.49 лит.А
-</campus>
-<class>
- 369
-</class>
-<subject>
- ДИСКРЕТНАЯ МАТЕМАТИКА (ПРАК)
-</subject>
-<teacher>
- Поляков Владимир Иванович
-</teacher>
-<block>
-<number>
- 3
-</number>
-<week>
- Нечетная
-</week>
-<time>
- 13.30 - 15.00
-</time>
-<campus>
- Кронверкский пр. д.49 лит.А
-</campus>
-<class>
- 304
-</class>
-<subject>
- ИНФОРМАТИКА (ЛАБ)
-</subject>
-<teacher>
- Малышева Татьяна Алексеевна
-</teacher>
-<block>
-<number>
- 4
-</number>
-<week>
- Четная
-</week>
-<time>
- 15.20 - 16.50
-</time>
-<campus>
- Кронверкский пр. д.49 лит.А
-</campus>
-<class>
- 369
-</class>
-<subject>
- ДИСКРЕТНАЯ МАТЕМАТИКА (ПРАК)
-</subject>
-<teacher>
- Поляков Владимир Иванович
-</teacher>
-<block>
-<number>
- 4
-</number>
-<week>
- Нечетная
-</week>
-<time>
- 15.20 - 16.50
-</time>
-<campus>
- Кронверкский пр. д.49 лит.А
-</campus>
-<class>
- 304
-</class>
-<subject>
- ИНФОРМАТИКА (ЛАБ)
-</subject>
-<teacher>
- Малышева Татьяна Алексеевна
-</teacher>
-<block>
-<block>
-<block>
+			<number>
+				 1
+			</number>
+			<week>
+				 Четная
+			</week>
+			<time>
+				 10.00 - 11.30
+			</time>
+			<campus>
+				 Кронверкский пр. д.49 лит.А
+			</campus>
+			<class>
+				 371
+			</class>
+			<subject>
+				 ПРОГРАММИРОВАНИЕ (ЛАБ)
+			</subject>
+			<teacher>
+				 Письмак Алексей Евгеньевич
+			</teacher>
+		</block>
+		<block>
+			<number>
+				 1
+			</number>
+			<week>
+				 Нечетная
+			</week>
+			<time>
+				 10.00 - 11.30
+			</time>
+			<campus>
+				 Кронверкский пр. д.49 лит.А
+			</campus>
+			<class>
+				 372
+			</class>
+			<subject>
+				 ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ (ЛАБ)
+			</subject>
+			<teacher>
+				 Ткешелашвили Нино Мерабиевна
+			</teacher>
+		</block>
+		<block>
+			<number>
+				 2
+			</number>
+			<week>
+				 Четная
+			</week>
+			<time>
+				 11.40 - 13.10
+			</time>
+			<campus>
+				 Кронверкский пр. д.49 лит.А
+			</campus>
+			<class>
+				 371
+			</class>
+			<subject>
+				 ПРОГРАММИРОВАНИЕ (ЛАБ)
+			</subject>
+			<teacher>
+				 Письмак Алексей Евгеньевич
+			</teacher>
+		</block>
+		<block>
+			<number>
+				 2
+			</number>
+			<week>
+				 Нечетная
+			</week>
+			<time>
+				 11.40 - 13.10
+			</time>
+			<campus>
+				 Кронверкский пр. д.49 лит.А
+			</campus>
+			<class>
+				 372
+			</class>
+			<subject>
+				 ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ (ЛАБ)
+			</subject>
+			<teacher>
+				 Ткешелашвили Нино Мерабиевна
+			</teacher>
+		</block>
+		<block>
+			<number>
+				 3
+			</number>
+			<week>
+				 Четная
+			</week>
+			<time>
+				 13.30 - 15.00
+			</time>
+			<campus>
+				 Кронверкский пр. д.49 лит.А
+			</campus>
+			<class>
+				 369
+			</class>
+			<subject>
+				 ДИСКРЕТНАЯ МАТЕМАТИКА (ПРАК)
+			</subject>
+			<teacher>
+				 Поляков Владимир Иванович
+			</teacher>
+		</block>
+		<block>
+			<number>
+				 3
+			</number>
+			<week>
+				 Нечетная
+			</week>
+			<time>
+				 13.30 - 15.00
+			</time>
+			<campus>
+				 Кронверкский пр. д.49 лит.А
+			</campus>
+			<class>
+				 304
+			</class>
+			<subject>
+				 ИНФОРМАТИКА (ЛАБ)
+			</subject>
+			<teacher>
+				 Малышева Татьяна Алексеевна
+			</teacher>
+		</block>
+		<block>
+			<number>
+				 4
+			</number>
+			<week>
+				 Четная
+			</week>
+			<time>
+				 15.20 - 16.50
+			</time>
+			<campus>
+				 Кронверкский пр. д.49 лит.А
+			</campus>
+			<class>
+				 369
+			</class>
+			<subject>
+				 ДИСКРЕТНАЯ МАТЕМАТИКА (ПРАК)
+			</subject>
+			<teacher>
+				 Поляков Владимир Иванович
+			</teacher>
+		</block>
+		<block>
+			<number>
+				 4
+			</number>
+			<week>
+				 Нечетная
+			</week>
+			<time>
+				 15.20 - 16.50
+			</time>
+			<campus>
+				 Кронверкский пр. д.49 лит.А
+			</campus>
+			<class>
+				 304
+			</class>
+			<subject>
+				 ИНФОРМАТИКА (ЛАБ)
+			</subject>
+			<teacher>
+				 Малышева Татьяна Алексеевна
+			</teacher>
+		</block>
+	</content>
+</block>
